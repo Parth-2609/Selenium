@@ -61,4 +61,4 @@ cd <repository-folder>
 - **Understanding Selenium:** Starting from scratch, I learned how to interact with web elements, handle JavaScript, and navigate complex web structures.
 - **Problem-Solving:** Tackling infinite scroll and pagination deepened my understanding of dynamic web scraping.
 
-## Contributions are welcome! If you have ideas for improvement or encounter any issues, feel free to open a pull request or create an issue.
+# Contributions are welcome! If you have ideas for improvement or encounter any issues, feel free to open a pull request or create an issue.
